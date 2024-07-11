@@ -239,6 +239,7 @@ ol {
 } 
 
 .content__list{
+  position: relative;
   max-block-size: 298px;
   overflow-y: scroll;
   padding: 3px 3px 0;
